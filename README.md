@@ -58,8 +58,8 @@ You want to create your own Classless Server? No problem, just get AstoriaCore! 
 * [CMake 3.18.6](https://cmake.org/download/)
 * [GIT Extension](https://git-scm.com/downloads)
 * [MySQL Server 5.7 Community Edition](https://dev.mysql.com/downloads/mysql/5.7.html)
-* [OpenSSL 1.0.2u](https://workupload.com/file/jAYjqcPMP3g)
-* [Boost 1.60.0 (MSVC14.0)](https://boost.teeks99.com/bin/1.60.0/) 
+* [OpenSSL](https://drive.google.com/file/d/1w6yATRuIq3qeVa1u2A4LE1UBC7d8jhrD/view?usp=share_link)
+* [Boost 1.70.0 (MSVC14.2)](https://drive.google.com/file/d/1cMbKMrL9DRys5qeeOIlRsRULQNzJ-d7q/view?usp=share_link) 
 
 For OpenSSL install the Version you want to use depending on your System Core (x64 or x86)
 
@@ -73,8 +73,8 @@ This is an example of how to list things you need to use the software and how to
   
 ### Download Custom Resources (MANDATORY)
 
-* Patches & LUA Scripts -> https://gofile.io/d/85F5Bs
-* Maps/DBC/vMaps/MMaps -> https://gofile.io/d/S7UM96
+* Patches & LUA Scripts -> 
+* Maps/DBC/vMaps/MMaps -> 
 
 `On Popular demand: We are no longer using Mega.nz to Host the Files!`
 
@@ -91,7 +91,7 @@ Distributed under the GNU AGPL 3.0 and GNU GPL 2.0 Licenses. See `LICENSE` for m
 
 ## Contact
 
-Discord - `Lushen#4800`
+Discord - `Synz#0643`
 
 ## Disclaimer
 
