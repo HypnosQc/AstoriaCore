@@ -24,7 +24,7 @@
 AstoriaCore is a customized Version of TrinityCore and the private source of WaloriaCore by Fractional aka Fred. With this project 
 we want to bring **Classless** to a new level. With many extensions, *AstoriaCore* is different from all other TrinityCore branches.
 *AstoriaCore* was the basis of the Classless Project "Project Astoria" which was managed by Lushen, Acidy and OMGhixD.
-and now by Synz#0643 & Sartus#3229
+and now by Synz & Sartus
 
 ## Exentions
 
