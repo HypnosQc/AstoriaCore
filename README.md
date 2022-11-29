@@ -75,7 +75,8 @@ This is an example of how to list things you need to use the software and how to
   
 ### Download Custom Resources (MANDATORY)
 
-* Patches & LUA Scripts -> 
+* Patches ->
+* LUA Scripts -> https://drive.google.com/file/d/18MW9zi3xmP7uq4iV3gVL4A74-cBhsB4K/view?usp=share_link
 * Maps/DBC/VMaps/MMaps -> https://drive.google.com/file/d/1P89Y_bZKQcGLJWNPdWOcCw933wQlrBwC/view?usp=share_link
 
 `On Popular demand: We are no longer using Mega.nz to Host the Files!`
