@@ -24,6 +24,7 @@
 AstoriaCore is a customized Version of TrinityCore and the private source of WaloriaCore by Fractional aka Fred. With this project 
 we want to bring **Classless** to a new level. With many extensions, *AstoriaCore* is different from all other TrinityCore branches.
 *AstoriaCore* was the basis of the Classless Project "Project Astoria" which was managed by Lushen, Acidy and OMGhixD.
+and now by Synz#0643 & Sartus#3229
 
 ## Exentions
 
@@ -59,6 +60,7 @@ You want to create your own Classless Server? No problem, just get AstoriaCore! 
 * [GIT Extension](https://git-scm.com/downloads)
 * [MySQL Server 5.7 Community Edition](https://dev.mysql.com/downloads/mysql/5.7.html)
 * [OpenSSL](https://drive.google.com/file/d/1w6yATRuIq3qeVa1u2A4LE1UBC7d8jhrD/view?usp=share_link)
+  Drag & Drop it in C:/
 * [Boost 1.70.0 (MSVC14.2)](https://drive.google.com/file/d/1cMbKMrL9DRys5qeeOIlRsRULQNzJ-d7q/view?usp=share_link) 
 
 For OpenSSL install the Version you want to use depending on your System Core (x64 or x86)
@@ -74,7 +76,7 @@ This is an example of how to list things you need to use the software and how to
 ### Download Custom Resources (MANDATORY)
 
 * Patches & LUA Scripts -> 
-* Maps/DBC/vMaps/MMaps -> 
+* Maps/DBC/VMaps/MMaps -> https://drive.google.com/file/d/1P89Y_bZKQcGLJWNPdWOcCw933wQlrBwC/view?usp=share_link
 
 `On Popular demand: We are no longer using Mega.nz to Host the Files!`
 
