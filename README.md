@@ -97,6 +97,7 @@ Distributed under the GNU AGPL 3.0 and GNU GPL 2.0 Licenses. See `LICENSE` for m
 ## Contact
 
 Discord - `Synz#0643`
+Discord - `Lushen#4800`
 
 ## Disclaimer
 
