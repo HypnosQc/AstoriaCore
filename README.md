@@ -76,7 +76,7 @@ This is an example of how to list things you need to use the software and how to
   
 ### Download Custom Resources (MANDATORY)
 
-* Patches -> https://drive.google.com/file/d/1qvUZjGtRzYpelNNjRTVj6fZk5gCWjIJX/view?usp=share_link
+* Patch-A.MPQ -> https://drive.google.com/file/d/1qvUZjGtRzYpelNNjRTVj6fZk5gCWjIJX/view?usp=share_link
 * SQL Database -> https://drive.google.com/file/d/1zlru3qexu_C2j8U8OWHxm9XbuZZfwehg/view?usp=share_link
 * LUA Scripts -> https://drive.google.com/file/d/18MW9zi3xmP7uq4iV3gVL4A74-cBhsB4K/view?usp=share_link
 * Maps/DBC/VMaps/MMaps -> https://drive.google.com/file/d/1P89Y_bZKQcGLJWNPdWOcCw933wQlrBwC/view?usp=share_link
