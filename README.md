@@ -57,7 +57,7 @@ You want to create your own Classless Server? No problem, just get AstoriaCore! 
 
 * [Visual Studio 2015 Community](https://visualstudio.microsoft.com/de/vs/older-downloads/)
   Or an higher version.
-* [CMake 3.24.2] (https://drive.google.com/file/d/1TGrZWJgsshrcsWEeY_zrsPgko-ceXPGH/view?usp=share_link)
+* [CMake 3.24.2](https://drive.google.com/file/d/1TGrZWJgsshrcsWEeY_zrsPgko-ceXPGH/view?usp=share_link)
 * [GIT Extension](https://git-scm.com/downloads)
 * [MySQL Server 5.7 Community Edition](https://dev.mysql.com/downloads/mysql/5.7.html)
 * [OpenSSL](https://drive.google.com/file/d/1w6yATRuIq3qeVa1u2A4LE1UBC7d8jhrD/view?usp=share_link)
