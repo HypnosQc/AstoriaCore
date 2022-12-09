@@ -12,7 +12,7 @@
     <br />
     <br />
     <br />
-    <a href="https://github.com/AstoriaCore/AstoriaCore/issues/new/choose">Report Bug</a>
+    <a href="https://github.com/QcSynzOfficial/AstoriaCore/issues/new/choose">Report Bug</a>
     ·
 	<a href="#">Known Bugs</a>
   </p>
