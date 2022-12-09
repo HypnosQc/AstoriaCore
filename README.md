@@ -10,7 +10,6 @@
     Community driven Classless MMO Framework. Proudly 
   founded by Lushen and based on WaloriaCore(TC) :smile:
     <br />
-    <a href="https://github.com/AstoriaCore/AstoriaCore/tree/master/tutorials"><strong>Explore the docs (AstoriaCore) »</strong></a>
     <br />
     <br />
     <a href="https://github.com/AstoriaCore/AstoriaCore/issues/new/choose">Report Bug</a>
