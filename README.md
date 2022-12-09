@@ -98,6 +98,8 @@ Distributed under the GNU AGPL 3.0 and GNU GPL 2.0 Licenses. See `LICENSE` for m
 
 Discord - `Synz#0643`
 Discord - `Lushen#4800`
+Discord - `☠༺REv☢ℓve༻☠
+#2637`
 
 ## Disclaimer
 
