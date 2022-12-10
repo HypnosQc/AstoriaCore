@@ -70,7 +70,7 @@ For OpenSSL install the Version you want to use depending on your System Core (x
 This is an example of how to list things you need to use the software and how to install them.
 
   ```sh
-  git clone https://github.com/AstoriaCore/AstoriaCore.git
+  git clone https://github.com/QcSynzOfficial/AstoriaCore.git
   ```
   
 ### Download Custom Resources (MANDATORY)
