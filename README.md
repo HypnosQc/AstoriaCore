@@ -82,11 +82,6 @@ This is an example of how to list things you need to use the software and how to
 
 `On Popular demand: We are no longer using Mega.nz to Host the Files!`
 
-### Installation
-
-Follow the [AstoriaCore](https://github.com/AstoriaCore/AstoriaCore/tree/master/tutorials) Installation Documentation, to learn how to Compile and Build the Source.
-
-
 ## License
 
 Distributed under the GNU AGPL 3.0 and GNU GPL 2.0 Licenses. See `LICENSE` for more information.
